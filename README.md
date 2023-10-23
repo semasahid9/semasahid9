@@ -5,6 +5,6 @@
 - 📫 How to reach me semasahid9@gmail.com
 - 
 <!---
-semasahid9/semasahid9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+semasahid9/semasahid9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub
 You can click the Preview link to take a look at your changes.
 --->
