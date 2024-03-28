@@ -5,5 +5,5 @@
 - 📫 How to reach me semasahid9@gmail.com
 - 
 <!---
-semasahid9/semasahid9 is a ✨ special ✨ repository because its `README.md` (this file) appe
+semasahid9/semasahid9 is a ✨ special ✨ repository because its `README.md` (this file) app
 
